@@ -1,15 +1,3 @@
 {
-  "sqltools.connections": [
-    {
-      "connectionTimeout": 30000,
-      "database": "5.17.8.208",
-      "dialect": "OracleDB",
-      "name": "SIT4ISP1",
-      "password": "consulta",
-      "port": 1521,
-      "server": "SIT4ISP1",
-      "username": "consulta_dicionario"
-    }
-  ],
   "liveServer.settings.port": 5501
 }
